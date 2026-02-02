@@ -1,19 +1,18 @@
-📊 Imersão Dados com Python – Dashboard
+📊 Imersão Dados com Python – Dashboard Interativo
 
-Aplicação web interativa desenvolvida com Python e Streamlit durante a Imersão Dados da Alura 2025, focada em análise e visualização de dados de forma simples, clara e intuitiva.
+Aplicação web interativa criada durante a Imersão Dados com Python – Alura 2025 para explorar e visualizar dados com filtros e gráficos dinâmicos usando Streamlit.
 
-🔗 Acesse o app:
-https://imersao-dados-python-alura-2025-afedhurerbj2lzrw7lrjhm.streamlit.app/
+🔗 App online: https://imersao-dados-python-alura-2025-afedhurerbj2lzrw7lrjhm.streamlit.app/
 
-🚀 Funcionalidades
+📦 Repositório GitHub: https://github.com/elisangelaamaral9-hue/imersao-dados-python-alura-2025
 
-Filtros interativos
+🚀 O que faz
 
-Visualizações dinâmicas
+Filtros interativos para seleção de dados
 
-Exploração de dados em tempo real
+Gráficos e visualizações dinâmicas
 
-Interface web responsiva
+Navegação simples em interface web
 
 🛠 Tecnologias
 
@@ -23,12 +22,25 @@ Streamlit
 
 Pandas
 
-Matplotlib / Plotly
+Matplotlib / Plotly (ou similar)
 
 NumPy
 
-▶️ Executar localmente
-git clone https://github.com/<SEU_USUARIO>/<SEU_REPOSITORIO>.git
-cd <SEU_REPOSITORIO>
+▶️ Como rodar localmente
+
+Clone:
+
+git clone https://github.com/elisangelaamaral9-hue/imersao-dados-python-alura-2025.git
+
+
+Instale dependências:
+
 pip install -r requirements.txt
+
+
+Execute:
+
 streamlit run app.py
+
+
+💡 Projeto feito para aprendizado e portfólio em análise de dados com Python.
